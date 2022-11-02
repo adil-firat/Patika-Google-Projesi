@@ -1,0 +1,90 @@
+.buton {
+    width: 260px;
+    height: 20px;
+    margin-left: 870px;
+    margin-top: 0px;
+
+
+}
+.buton2{
+    height: 20px;
+    width: 180px;
+}
+
+
+.jpgs {
+    width: 500px;
+    padding: 30px;
+    height: 90px;
+    margin-left: 720px;
+    margin-right: 600px;
+    padding-top: 250px;
+}
+
+p {
+    margin-top: -30px;
+    margin-bottom: 10px;
+    margin-right: 550px;
+    margin-left: 650px;
+    width: 240px;
+    height: 05px;
+
+
+}
+
+.content {
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+
+.search {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+
+}
+
+.text {
+    width: 300px;
+    height: 15px;
+    margin-left: 885px;
+    margin-top: 0px;
+
+}
+
+.kutu {
+    width: 600px;
+    height: 150px;
+   margin-bottom: 55px;
+    margin: 15px;
+    float: left;
+    margin-left: auto;
+    background-color: aqua;
+    padding-top: 5px;
+    margin-top: 15px;
+}
+.kutu2{
+    width: 600px;
+    height: 150px;
+    margin-bottom: 55px;
+    margin: 15px;
+    float: left;
+    margin-left: auto;
+    background-color: aqua;
+    padding-top: 5px;
+    margin-top: 15px;
+}
+.kutu3{
+    width: 600px;
+    height: 150px;
+    margin-bottom: 55px;
+    margin: 150px;
+    float: left;
+    margin-left: auto;
+    background-color: aqua;
+    padding-top: 5px;
+    margin-top: 15px;
+}
